@@ -14,10 +14,6 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <!-- About Me (LEFT) -->
-    <td align="left" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -33,9 +29,7 @@ I am passionate about data-driven problem solving, machine learning, and continu
   <img src="https://img.shields.io/badge/Download-CV-10B981?style=flat&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-    </td>
-  </tr>
-</table>
+   
 ---
 
 ## 🔍 Current Activities
