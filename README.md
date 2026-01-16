@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/RAYHAN-MU/updatedcv/raw/main/RayhanAhmed.pdf">
     <img src="https://img.shields.io/badge/Download-CV-10B981?style=flat&logo=adobeacrobatreader&logoColor=white"/>
   </a>
@@ -30,7 +30,7 @@ I am passionate about data-driven problem solving, machine learning, and continu
 
 
    
----
+
 
 ## 🔍 Current Activities
 
