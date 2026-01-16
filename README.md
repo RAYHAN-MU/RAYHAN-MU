@@ -37,10 +37,10 @@
   <a href="mailto:rayhanahmed53432@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColoR=0A66C2" alt="LinkedIn" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="48" height="48" />
+</a>
+
 
 
   <a href="https://rayhan-mu.github.io/portfolio/">
