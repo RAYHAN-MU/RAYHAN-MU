@@ -35,33 +35,31 @@
 <p align="left">
 
   <a href="mailto:rayhanahmed53432@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" width="30" height="36" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30" height="36" />
-</a>
-
-
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
   <a href="https://rayhan-mu.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 
   <a href="https://www.facebook.com/rayhanahmed553">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 
   <a href="https://www.codechef.com/users/rayhanahmed_mu">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 
   <a href="https://codeforces.com/profile/rayhan_mu">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 
 </p>
 
----
 
 ⭐ *Thanks for visiting my profile!*
   
