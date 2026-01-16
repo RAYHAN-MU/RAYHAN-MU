@@ -35,7 +35,7 @@
 <p align="left">
 
   <a href="mailto:rayhanahmed53432@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" width="30" height="36" />
   </a>
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30" height="36" />
