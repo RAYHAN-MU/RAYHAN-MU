@@ -33,37 +33,37 @@
   <a href="mailto:rayhanahmed53432@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"
          alt="Email"
-         style="margin-right:10px;" />
+         style="margin-right:15px;" />
   </a>
 
   <a href="tel:+8801601353432">
     <img src="https://img.shields.io/badge/Phone-01601353432-10B981?style=flat&logo=whatsapp&logoColor=white"
          alt="Phone"
-         style="margin-right:10px;" />
+         style="margin-right:15px;" />
   </a>
 
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
          alt="LinkedIn"
-         style="margin-right:10px;" />
+         style="margin-right:15px;" />
   </a>
 
   <a href="https://rayhan-mu.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white"
          alt="Portfolio"
-         style="margin-right:10px;" />
+         style="margin-right:15px;" />
   </a>
 
   <a href="https://www.facebook.com/rayhanahmed553">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"
          alt="Facebook"
-         style="margin-right:10px;" />
+         style="margin-right:15px;" />
   </a>
 
   <a href="https://www.codechef.com/users/rayhanahmed_mu">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"
          alt="CodeChef"
-         style="margin-right:10px;" />
+         style="margin-right:15px;" />
   </a>
 
   <a href="https://codeforces.com/profile/rayhan_mu">
