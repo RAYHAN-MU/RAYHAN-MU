@@ -25,7 +25,7 @@ I am passionate about data-driven problem solving, machine learning, and continu
 
 - 🌱 Exploring **Data Science & Machine Learning**
 - 🧪 Practicing **Python, NumPy, Pandas, Matplotlib**
-- 🧠 Learning **PyTorch & basic Deep Learning concepts**
+- 🧠 Learning **PyTorch**
 - 💻 Solving problems on **CodeChef & Codeforces**
 
 ---
@@ -92,19 +92,6 @@ I am passionate about data-driven problem solving, machine learning, and continu
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-mu&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan-mu&theme=tokyonight" height="160" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-mu&layout=compact&theme=tokyonight" height="140" />
 </p>
 
 ---
