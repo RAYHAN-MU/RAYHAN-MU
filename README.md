@@ -68,31 +68,37 @@ I am passionate about data-driven problem solving, machine learning, and continu
 ## 🌐 Connect With Me
 
 <p align="left">
-  <!-- Email -->
   <a href="mailto:rayhanahmed53432@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" title="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="28"/>
+    <strong>Email:</strong> rayhanahmed53432@gmail.com
   </a>
+  <br><br>
 
-  <!-- Phone / WhatsApp -->
   <a href="tel:+8801601353432">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" title="Phone / WhatsApp"/>
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28"/>
+    <strong>Phone:</strong> 01601353432
   </a>
+  <br><br>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+    <strong>LinkedIn:</strong> rayhan-ahmed-ra
   </a>
+  <br><br>
 
-  <!-- Portfolio -->
   <a href="https://rayhan-mu.github.io/portfolio/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="Portfolio"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
+    <strong>Portfolio:</strong> rayhan-mu.github.io
   </a>
+  <br><br>
 
-  <!-- Facebook -->
   <a href="https://www.facebook.com/rayhanahmed553">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" title="Facebook"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="28"/>
+    <strong>Facebook:</strong> facebook.com/rayhanahmed553
   </a>
 </p>
+
+---
 
 ---
 
