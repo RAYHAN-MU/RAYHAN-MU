@@ -17,17 +17,17 @@
 
 ## 👨‍💻 About Me
 
+<p align="left">
+  <a href="https://github.com/RAYHAN-MU/updatedcv/raw/main/RayhanAhmed.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-10B981?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+
 I am a Computer Science & Engineering graduate from **Metropolitan University, Sylhet**.  
 I am passionate about data-driven problem solving, machine learning, and continuous learning through practical projects.
 
-    </td>
 
-    <!-- CV (TOP RIGHT) -->
-    <td align="right" valign="top">
-
-<a href="https://github.com/RAYHAN-MU/updatedcv/raw/main/RayhanAhmed.pdf">
-  <img src="https://img.shields.io/badge/Download-CV-10B981?style=flat&logo=adobeacrobatreader&logoColor=white"/>
-</a>
 
    
 ---
