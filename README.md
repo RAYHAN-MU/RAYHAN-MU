@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=000000" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColoR=white" alt="LinkedIn" />
   </a>
 
 
