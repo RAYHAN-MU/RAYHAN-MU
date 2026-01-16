@@ -25,7 +25,7 @@ I am passionate about data-driven problem solving, machine learning, and continu
 
 - 🌱 Exploring **Data Science & Machine Learning**
 - 🧪 Practicing **Python, NumPy, Pandas, Matplotlib**
-- 🧠 Learning **PyTorch**
+- 🧠 Learning **PyTorch ,FastAPI**
 - 💻 Solving problems on **CodeChef & Codeforces**
 
 ---
