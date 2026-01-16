@@ -68,31 +68,31 @@ I am passionate about data-driven problem solving, machine learning, and continu
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:rayhanahmed53432@gmail.com">
+  <a href="mailto:rayhanahmed53432@gmail.com" style="text-decoration:none; color:inherit;">
     <img src="https://cdn.simpleicons.org/gmail/D14836" width="28"/>
     <strong>Email:</strong> rayhanahmed53432@gmail.com
   </a>
   <br><br>
 
-  <a href="tel:+8801601353432">
+  <a href="tel:+8801601353432" style="text-decoration:none; color:inherit;">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28"/>
     <strong>Phone:</strong> 01601353432
   </a>
   <br><br>
 
-  <a href="https://www.linkedin.com/in/rayhan-ahmed-ra">
+  <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" style="text-decoration:none; color:inherit;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
     <strong>LinkedIn:</strong> rayhan-ahmed-ra
   </a>
   <br><br>
 
-  <a href="https://rayhan-mu.github.io/portfolio/">
+  <a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration:none; color:inherit;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
     <strong>Portfolio:</strong> rayhan-mu.github.io
   </a>
   <br><br>
 
-  <a href="https://www.facebook.com/rayhanahmed553">
+  <a href="https://www.facebook.com/rayhanahmed553" style="text-decoration:none; color:inherit;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="28"/>
     <strong>Facebook:</strong> facebook.com/rayhanahmed553
   </a>
@@ -100,9 +100,6 @@ I am passionate about data-driven problem solving, machine learning, and continu
 
 ---
 
----
 
 
----
-
-⭐ *Thanks for visiting my profile!*
+--- *Thanks for visiting my profile!*
