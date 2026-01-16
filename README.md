@@ -118,12 +118,7 @@ I am passionate about data-driven problem solving, machine learning, and continu
 </p>
 
   
----
-📄 **CV:**  
-[![Download CV](https://img.shields.io/badge/Download-CV-10B981?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/RAYHAN-MU/updatedcv/raw/main/RayhanAhmed.pdf)
 
-
- 
 
 
 --- *Thanks for visiting my profile!*
