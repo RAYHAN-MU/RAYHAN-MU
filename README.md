@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Skills
-- **Programming:** Python, C, C++,Java  
+- **Programming:** Python , C, C++,Java  
 - **Web:** HTML, CSS ,javascripts
 - **ML/DL:** CNN, Image Processing (Beginner)  
 - **Tools:** Git, GitHub, VS Code,Codeblocks  
@@ -32,10 +32,7 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: https://yourportfolio.com  
-
+<p align="left"> <a href="mailto:rayhanahmed53432@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/rayhan-ahmed-ra"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://rayhan-mu.github.io/portfolio/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /> </a> <a href="https://www.facebook.com/rayhanahmed553"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /> </a> <a href="https://www.codechef.com/users/rayhanahmed_mu"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" /> </a> <a href="https://codeforces.com/profile/rayhan_mu"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" /> </a> </p>
 ---
 
 ⭐ *Thanks for visiting my profile!*
