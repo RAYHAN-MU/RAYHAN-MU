@@ -9,8 +9,9 @@
 ---
 ### 👨‍💻 About Me
 
-- 🎓 **BSc in Computer Science & Engineering**, Metropolitan University  
-- 📍 Bateshawar, Sylhet 3104, Bangladesh  
+- 🎓 **BSc in Computer Science & Engineering**, 
+- **Metropolitan University** 
+- 📍 Bateshawar, Sylhet, Bangladesh  
 - 💡 Interested in **Data Science & Machine Learning**  
 - 🌱 Currently learning **Python, NumPy, Pandas, Matplotlib, Seaborn, and PyTorch**  
 - 🚀 Passionate about learning new technologies and continuous skill development  
@@ -32,7 +33,8 @@
   <a href="mailto:rayhanahmed53432@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
+</P>
+<P>  
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
