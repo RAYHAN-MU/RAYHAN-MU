@@ -65,34 +65,37 @@ I am passionate about data-driven problem solving, machine learning, and continu
 </p>
 
 ---
-
-
-
 ## 🌐 Connect With Me
 
 <p align="left">
+  <!-- Email -->
   <a href="mailto:rayhanahmed53432@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" title="Email"/>
   </a>
 
+  <!-- Phone / WhatsApp -->
   <a href="tel:+8801601353432">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40" title="Phone / WhatsApp"/>
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" title="Phone / WhatsApp"/>
   </a>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
   </a>
 
+  <!-- Portfolio -->
   <a href="https://rayhan-mu.github.io/portfolio/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="Portfolio"/>
   </a>
 
+  <!-- Facebook -->
   <a href="https://www.facebook.com/rayhanahmed553">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" title="Facebook"/>
   </a>
 </p>
 
 ---
+
 
 ---
 
