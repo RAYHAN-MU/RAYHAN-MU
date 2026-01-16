@@ -1,3 +1,40 @@
+<!-- ===================== -->
+<!--        BANNER         -->
+<!-- ===================== -->
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Rayhan%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn)
+
+<h1 align="center">Hi, I'm Rayhan Ahmed</h1>
+<h3 align="center">CSE Graduate | Data Science & Machine Learning Enthusiast</h3>
+
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science & Engineering graduate from **Metropolitan University, Sylhet**.  
+I am passionate about data-driven problem solving, machine learning, and continuous learning through practical projects.
+
+---
+
+## 🔍 Current Activities
+
+- 🌱 Exploring **Data Science & Machine Learning**
+- 🧪 Practicing **Python, NumPy, Pandas, Matplotlib**
+- 🧠 Learning **PyTorch & basic Deep Learning concepts**
+- 💻 Solving problems on **CodeChef & Codeforces**
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,git,github,vscode&perline=8" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
 
   <a href="mailto:rayhanahmed53432@gmail.com">
@@ -21,3 +58,20 @@
   </a>
 
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-mu&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan-mu&theme=tokyonight" height="160" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-mu&layout=compact&theme=tokyonight" height="140" />
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile!*
