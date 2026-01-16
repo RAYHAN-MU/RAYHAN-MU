@@ -108,8 +108,11 @@ I am passionate about data-driven problem solving, machine learning, and continu
 
   
 ---
-📄 **CV:**  
-[Download CV](https://github.com/RAYHAN-MU/updatedcv/raw/main/RayhanAhmed.pdf) 
+📄 <strong>CV:</strong>
+<a href="https://github.com/RAYHAN-MU/updatedcv/raw/main/RayhanAhmed.pdf" style="text-decoration:none;">
+  Download CV
+</a>
+
  
 
 
