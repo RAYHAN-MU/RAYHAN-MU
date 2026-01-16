@@ -19,7 +19,7 @@
 ### 🛠️ Skills
 - **Programming:** Python , C, C++,Java ,javascripts
 - **Web:** HTML, CSS,MySQL
-- **ML/DL: Python, NumPy, Pandas, Matplotlib, Seaborn, and PyTorch, Image Processing (Beginner)  
+- **ML/DL:** Python, NumPy, Pandas, Matplotlib, Seaborn, and PyTorch, Image Processing (Beginner)  
 - **Tools:** Git, GitHub, VS Code,Codeblocks  
 
 ---
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30" height="36" />
 </a>
 
 
