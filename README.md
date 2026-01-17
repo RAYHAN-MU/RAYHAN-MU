@@ -103,7 +103,7 @@ I am passionate about data-driven problem solving, machine learning, and continu
   <a href="https://rayhan-mu.github.io/portfolio/">📧</a>
   <img src="https://cdn.simpleicons.org/gitbook/ffffff" width="28"/>
 </a>
-<strong>Portfolio:</strong> rayhan-mu.github.io
+<strong>Portfolio:</strong>https://rayhan-mu.github.io/portfolio/
 <br><br>
 
 
