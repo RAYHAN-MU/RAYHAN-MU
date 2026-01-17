@@ -99,7 +99,7 @@ I am passionate about data-driven problem solving, machine learning, and continu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn"/>
   <strong>LinkedIn:</strong>
   <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" style="text-decoration: none; color: inherit;">
-    rayhan-ahmed-ra
+    www.linkedin.com/in/rayhan-ahmed-ra
   </a>
   <br><br>
 
