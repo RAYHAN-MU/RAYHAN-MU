@@ -75,59 +75,43 @@ I am passionate about data-driven problem solving, machine learning, and continu
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeblocks.svg" width="40"/>
 </p>
 
----
+---  
 ## 🌐 Connect With Me
 
 <p align="left">
   <!-- Email -->
-  <a href="mailto:rayhanahmed53432@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="28"/>
+  <img src="https://cdn.simpleicons.org/gmail/D14836" width="28" alt="Email"/>
+  <strong>Email:</strong>
+  <a href="mailto:rayhanahmed53432@gmail.com" style="text-decoration: none; color: inherit;">
+    rayhanahmed53432@gmail.com
   </a>
-  <strong>Email:</strong> rayhanahmed53432@gmail.com
   <br><br>
 
   <!-- Phone -->
-  <a href="tel:+8801601353432">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28"/>
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28" alt="Phone"/>
+  <strong>Phone:</strong>
+  <a href="tel:+8801601353432" style="text-decoration: none; color: inherit;">
+    01601353432
   </a>
-  <strong>Phone:</strong> 01601353432
   <br><br>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rayhan-ahmed-ra">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn"/>
+  <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/rayhan-ahmed-ra" style="text-decoration: none; color: inherit;">
+    rayhan-ahmed-ra
   </a>
-  <strong>LinkedIn:</strong> rayhan-ahmed-ra
   <br><br>
-<!-- Portfolio -->
-<a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration: none;">
-  <img src="https://cdn.simpleicons.org/gitbook/ffffff" width="28"/>
-</a>
 
-<br><br>
-<!-- Portfolio -->
-<img src="https://cdn.simpleicons.org/gitbook/000000" width="28" alt="Portfolio"/>
-<strong>Portfolio:</strong>
-<a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration: none; color: inherit;">
-  https://rayhan-mu.github.io/portfolio/
-</a>
-<br><br>
-
-
-
-
-
-
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/rayhanahmed553">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="28"/>
+  <!-- Portfolio -->
+  <img src="https://cdn.simpleicons.org/gitbook/000000" width="28" alt="Portfolio"/>
+  <strong>Portfolio:</strong>
+  <a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration: none; color: inherit;">
+    https://rayhan-mu.github.io/portfolio/
   </a>
-  <strong>Facebook:</strong> facebook.com/rayhanahmed553
 </p>
 
-  
 
 
 
---- *Thanks for visiting my profile!*
+--- *Thanks for visiting my profile!
