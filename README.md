@@ -103,13 +103,14 @@ I am passionate about data-driven problem solving, machine learning, and continu
 <a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration: none;">
   <img src="https://cdn.simpleicons.org/gitbook/ffffff" width="28"/>
 </a>
-<strong>Portfolio: 
-  <a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration: none; color: inherit;">
-    https://rayhan-mu.github.io/portfolio/
-  </a>
-</strong>
-<br><br>
 
+<!-- Portfolio -->
+<img src="https://cdn.simpleicons.org/gitbook/ffffff" width="28"/>
+<strong>Portfolio:</strong>
+<a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration: none; color: inherit;">
+  https://rayhan-mu.github.io/portfolio/
+</a>
+<br><br>
 
 
 
