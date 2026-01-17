@@ -104,13 +104,15 @@ I am passionate about data-driven problem solving, machine learning, and continu
   <img src="https://cdn.simpleicons.org/gitbook/ffffff" width="28"/>
 </a>
 
+
 <!-- Portfolio -->
-<img src="https://cdn.simpleicons.org/gitbook/ffffff" width="28"/>
+<img src="https://cdn.simpleicons.org/gitbook/000000" width="28" alt="Portfolio"/>
 <strong>Portfolio:</strong>
 <a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration: none; color: inherit;">
   https://rayhan-mu.github.io/portfolio/
 </a>
 <br><br>
+
 
 
 
