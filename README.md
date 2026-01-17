@@ -100,11 +100,18 @@ I am passionate about data-driven problem solving, machine learning, and continu
   <strong>LinkedIn:</strong> rayhan-ahmed-ra
   <br><br>
 <!-- Portfolio -->
-  <a href="https://rayhan-mu.github.io/portfolio/">📧</a>
+<a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration: none;">
+  📧
   <img src="https://cdn.simpleicons.org/gitbook/ffffff" width="28"/>
 </a>
-<strong>Portfolio:  https://rayhan-mu.github.io/portfolio/</strong>
+
+<strong>Portfolio: 
+  <a href="https://rayhan-mu.github.io/portfolio/" style="text-decoration: none; color: inherit;">
+    https://rayhan-mu.github.io/portfolio/
+  </a>
+</strong>
 <br><br>
+
 
 
 
