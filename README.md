@@ -104,7 +104,7 @@ I am passionate about data-driven problem solving, machine learning, and continu
   <img src="https://cdn.simpleicons.org/gitbook/ffffff" width="28"/>
 </a>
 
-
+<br><br>
 <!-- Portfolio -->
 <img src="https://cdn.simpleicons.org/gitbook/000000" width="28" alt="Portfolio"/>
 <strong>Portfolio:</strong>
