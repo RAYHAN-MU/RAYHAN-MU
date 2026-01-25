@@ -18,7 +18,10 @@
 ## 👨‍💻 About Me
 
 <p align="right">
-  <a href="https://github.com/RAYHAN-MU/Resume/blob/main/Rayhan_Resume.pdf">
+  <a href="<a href="https://raw.githubusercontent.com/RAYHAN-MU/RAYHAN-MU/main/Rayhan_Ahmed_CV.pdf" target="_blank">
+  Download CV
+</a>
+
     <img src="https://img.shields.io/badge/Download-CV-10B981?style=flat&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
