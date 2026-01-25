@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 <p align="right">
-  <a href="<a href="https://raw.githubusercontent.com/RAYHAN-MU/Resume/main/Rayhan_Resume.pdf" target="_blank">
+  <a href="<a href="https://raw.githubusercontent.com/RAYHAN-MU/RayhanResume/main/resume.pdf" target="_blank">
   Download CV
 </a>
 
